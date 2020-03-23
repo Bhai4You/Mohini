@@ -3,11 +3,5 @@
 <br>
 <li> Commands</li>
 <br>
-$ apt update -y  <br>
-$ apt upgrade -y  <br>
-$ apt install git -y  <br>
-$ git clone https://github.com/Bhai4You/Mohini  <br>
-$ cd Mohini  <br>
-S bash mohini.sh <br>  
-$ Done...!!!  <br>
+$ cd;apt update -y;apt upgrade -y;apt install git;git clone https://github.com/Bhai4You/Mohini;cd Mohini;chmod +x mohini.sh;bash mohini.sh
 <br>
